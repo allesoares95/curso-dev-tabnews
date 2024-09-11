@@ -71,3 +71,5 @@ npm install react@18.2.0
 npm install react-dom@18.2.0
 ```
   **Descrição**: O comando npm install react-dom@18.2.0 instala a versão 18.2.0 do pacote ReactDOM no projeto.
+
+  
